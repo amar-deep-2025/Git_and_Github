@@ -8,7 +8,7 @@ Think of it as a time machine for your projects- you can :
 
 * Track changes (who managed what, when, and why)  
 * Go back to an earlier version if something breaks  
-*  Work with others on the same project without overwriting each other's  work.
+* Work with others on the same project without overwriting each other's  work.
 * Merge contribution from different people or branches.
 
 
