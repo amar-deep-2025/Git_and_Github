@@ -17,9 +17,6 @@ My commands content goes here
 ##  checking your changes 
 ``` git status```
 ##  Start tacking files in staging area
-``` git add <file-name> 
-OR 
-git add . 
-all files```
+```git add <file-name> OR  git add . all files```
 
 
